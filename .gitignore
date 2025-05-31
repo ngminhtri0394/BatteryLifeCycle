@@ -1,0 +1,6 @@
+# Project exclude paths
+/plt/
+/saved_model/
+*.pkl
+/BatteryData/
+/BatteryData_1/
